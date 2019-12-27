@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Backpack",
+      "image": "../src/images/backpack.jpg",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Food",
+      "image": "../src/images/food.jpg",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Hammock",
+      "image": "../src/images/hammock.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Headlamp",
+      "image": "../src/images/headlamp.jpg",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Pot",
+      "image": "../src/images/pot.jpg",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Puffy",
+      "image": "../src/images/puffy.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Sleepingbag",
+      "image": "../src/images/sleepingbag.jpg",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Socks",
+      "image": "../src/images/socks.jpg",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Stove",
+      "image": "../src/images/stove.jpg",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Trailrunners",
+      "image": "../src/images/trail runners.jpg",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Trekking Poles",
+      "image": "../src/images/trekkingpoles.jpg",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Water Filter",
+      "image": "../src/images/waterfilter.jpg",
+      "count": 0
+    }
+  ]
