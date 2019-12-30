@@ -22,7 +22,7 @@ class App extends Component {
     this.state.cards.forEach(card => {
       card.count = 0;
     });
-    alert(`Game Over \nscore: ${this.state.score}`);
+    alert(`Game Over! \nscore: ${this.state.score}`);
     this.setState({score: 0});
     return true;
   }
@@ -47,7 +47,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Header score={this.state.score} highscore={this.state.highscore}>Clicky Game</Header>
+        <Header score={this.state.score} highscore={this.state.highscore}>Hiking Clicky Game: Don't Forget Your Gear!</Header>
         {this.state.cards.map(card => (
           <Card
             clickCount={this.clickCount}
