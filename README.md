@@ -1,4 +1,5 @@
 <h1>The Clickster<h1>
+<p>Check it out here! https://clarymt.github.io/Clicky-Game/<p>
 
 <h2>Overview</h2>
 <ul>
