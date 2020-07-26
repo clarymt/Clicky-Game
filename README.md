@@ -1,6 +1,9 @@
 <h1>The Clickster<h1>
 <h7>Check it out here! https://clarymt.github.io/Clicky-Game/<h7>
 
+# Screenshot of game:
+![](https://github.com/clarymt/Clicky-Game/blob/master/public/clickypage.png)
+
 <h2>Overview</h2>
 <ul>
   <li>The Hiking Clicky Game is a web game application where users click images of gear in order to earn points.  You win the game whenever you have clicked all 9 without repeats.  The only catch is that the gear moves in its location with every click... </li>
